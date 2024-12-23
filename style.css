@@ -145,7 +145,7 @@ body {
       transform: translateX(-50%);
       font-size: 1.5rem;
       color: rgba(255, 0, 0, 0.8);
-      text-shadow: 0 0 10px #ff0000, 0 0 20px #ff0000;
+      text-shadow: 0 0 10px #3399ff, 0 0 20px #3399ff;
       animation: warning-flicker 2s infinite;
   }
 
